@@ -1,0 +1,13 @@
+my/interfaces/ObjectFactory.class
+my/servlet/EmployeeServlet.class
+my/model/EmployeeService.class
+my/services/EmployeeImplService.class
+my/interfaces/package-info.class
+my/interfaces/GetAllEmployeesResponse.class
+my/interfaces/Employee.class
+com/mycompany/webclientweek4/JAXRSConfiguration.class
+my/model/EmployeesList.class
+com/mycompany/webclientweek4/resources/JavaEE8Resource.class
+my/converter/ConvertToHTML.class
+my/services/IEmployee.class
+my/interfaces/GetAllEmployees.class
