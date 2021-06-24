@@ -2,7 +2,6 @@
 
 This is a simplest demo of use of soap web services in java. Terminology used JAXB, JAX-WS, WSDL, XML, Java, JDBC, Mysql for generating Soap web-service and used HTML and Servlet client for consuming it. Tool used Netbeans  and SOAP UI for testing soap web-service.
 
-
 1) Create new database in MySQL and add a table with sample data
 
 2)Create a Web Service that is using database and returning a list of Objects
